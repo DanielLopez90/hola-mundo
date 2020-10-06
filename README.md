@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba.
+# Hola Mundo
+Mi primer repositorio.
 
-Autor: DAniel López
+Autor: Daniel López
 Fecha: 6 de octubre de 2020.
